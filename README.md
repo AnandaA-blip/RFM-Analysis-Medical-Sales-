@@ -5,10 +5,20 @@
 > **Strategic Supply Chain Intelligence:** Transforming raw transaction data into actionable retention strategies using RFM Segmentation and Statistical Validation (Chi-Square & Kruskal-Wallis).
 
 ---
-[![Open In Colab](https://colab.research.google.com/drive/1YxindALYaa_Ij6OLjSE3nNtg4v27_6h-#scrollTo=Gzr-LhhVJbE6)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YxindALYaa_Ij6OLjSE3nNtg4v27_6h-#scrollTo=Gzr-LhhVJbE6)
 
-[![Dashboard Preview](https://public.tableau.com/views/RFM_analysis_17700929663830/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<img width="427" height="239" alt="dashboard_preview" src="https://github.com/user-attachments/assets/6a82fca1-4665-4f01-b5dc-59584c8034f5" />
+
+
+### 📊 Interactive Dashboard
+
+Click the image below to explore the live dashboard:
+
+
+
+
+
+[![Dashboard Preview](assets/dashboard_image.png)](https://public.tableau.com/views/RFM_analysis_17700929663830/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
