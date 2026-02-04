@@ -7,10 +7,12 @@
 ---
 [![Open In Colab](https://colab.research.google.com/drive/1YxindALYaa_Ij6OLjSE3nNtg4v27_6h-#scrollTo=Gzr-LhhVJbE6)
 
-[![Dashboard Preview](<img width="427" height="239" alt="dashboard_preview" src="https://github.com/user-attachments/assets/96e179ee-e697-4f7f-a1d6-42b8cbc78f66" />)](https://public.tableau.com/views/RFM_analysis_17700929663830/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard Preview](https://public.tableau.com/views/RFM_analysis_17700929663830/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="427" height="239" alt="dashboard_preview" src="https://github.com/user-attachments/assets/6a82fca1-4665-4f01-b5dc-59584c8034f5" />
 
 
-## 📋 Executive Summary
+
+## Summary
 The business was facing a "silent" crisis: despite having a large customer base, revenue was dangerously concentrated, and the churn rate of high-value clients was unknown.
 
 Using **RFM (Recency, Frequency, Monetary) Segmentation**, this project dissected 12 months of transaction data. We moved beyond simple sales reporting to uncover **behavioral clusters**. The analysis revealed a critical dependency on a few "Champion" clients and identified a hidden loss of major wholesale partners disguised as standard churn.
@@ -20,7 +22,7 @@ Identified **~14.1 Billion** in "At-Risk" revenue dependency, discovered a **"Hi
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+## Methodology
 
 This project utilizes a rigorous analytical pipeline to ensure the results are not just descriptive, but statistically valid:
 
@@ -34,7 +36,7 @@ This project utilizes a rigorous analytical pipeline to ensure the results are n
 
 ---
 
-## 🔍 Key Diagnostic Findings
+## Key Diagnostic Findings
 
 ### 1. The "Pareto" Risk (Revenue Concentration)
 The business exhibits an extreme dependency on the **'Champions'** segment.
