@@ -17,7 +17,7 @@ Click the image below to explore the live dashboard:
 
 
 
-[![Dashboard Preview](assets/dashboard_image.png)](https://public.tableau.com/views/RFM_analysis_17700929663830/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard Preview](assets/dashboard_preview.png)](https://public.tableau.com/views/RFM_analysis_17700929663830/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -103,3 +103,6 @@ Based on the analysis, the following actions are recommended (Prioritized by Imp
 │   └── Healthcare_Supply_Chain_RFM.ipynb  # End-to-End Analysis
 │
 └── 📄 README.md                # Project documentation
+```
+Download Full Dataset :
+[https://drive.google.com/drive/folders/1CgEq7V_Mg0quhQ08HBJ9SRHA0glu0pBr?usp=drive_link]
