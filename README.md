@@ -106,3 +106,11 @@ Based on the analysis, the following actions are recommended (Prioritized by Imp
 ```
 Download Full Dataset :
 [https://drive.google.com/drive/folders/1CgEq7V_Mg0quhQ08HBJ9SRHA0glu0pBr?usp=drive_link]
+
+### 👤 Author
+
+**[Ananda Anugrah]**
+
+*Data Analyst | Medical Laboratory Technologist*
+
+[[LinkedIn](https://www.linkedin.com/in/ananda-anugrah-062741387/)] |
